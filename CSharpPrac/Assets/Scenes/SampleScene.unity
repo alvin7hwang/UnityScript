@@ -234,9 +234,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 97f6121d4d66073448c6c118b02cf7f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Id_text: {fileID: 0}
+  Id_text: {fileID: 1652860889}
   Lv_text: {fileID: 1272314736}
-  Exp_text: {fileID: 0}
+  Exp_text: {fileID: 774321858}
   Id: 
   Level: 52
   exp: 32.7
